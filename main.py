@@ -1,2 +1,2 @@
 print('sandis')
-print("Una Lange")
+print("Kārlis Bukovskis")
